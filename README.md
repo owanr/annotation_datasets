@@ -1,8 +1,8 @@
 | Year | Reference | Task | Dataset | Has indiv.<sup>[1](#datasymbols)</sup> |  Score | Metric |
 |:----- |:----- |:----- |:----- |:----- |:----- |:----- |
+| 2018 | [Introducing the gab hate corpus: Defining and applying hate-based rhetoric to social media posts at scale.](https://link.springer.com/article/10.1007/s10579-021-09569-x) (Brendan Kennedy, Mohammad Atari, Aida M. Davani, Leigh Yeh, Ali Omrani, Yehsong Kim, Kris Coombs, et al.) | Hate speech identification | [Dataset](https://osf.io/edua3/) |  |  |  |
 | 2014 | [Lexical Acquisition for Opinion Inference: A Sense-Level Lexicon of Benefactive and Malefactive Events](https://aclanthology.org/W14-2618.pdf) (Yoonjung Choi, Lingjia Deng, and Janyce Wiebe) | WSD for sentiment analysis | [Dataset](http://mpqa.cs.pitt.edu/corpora/gfbf/) | $\triangle$ | 0.84 | Percent agreement|
 |"|"|"|"|"| 0.75 | Kappa|
-|  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
