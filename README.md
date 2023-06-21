@@ -4,7 +4,7 @@
 | 2021 | [Whose Opinions Matter? Perspective-aware Models to Identify Opinions of Hate Speech Victims in Abusive Language Detection](https://arxiv.org/abs/2106.15896) (Sohail Akhtar, Valerio Basile, Viviana Patti) | Hate speech identification | [HS-Brexit](https://le-wi-di.github.io/) | :family_man_woman_girl_boy: | 6 | 1120 | 0.35 | Fleiss' Kappa<sup>[2](#complicatedirr)</sup> |
 | 2021 | [ConvAbuse: Data, Analysis, and Benchmarks for Nuanced Abuse Detection in Conversational AI](https://aclanthology.org/2021.emnlp-main.587/) (Amanda Cercas Curry, Gavin Abercrombie, Verena Rieser) | Hate speech identification | [ConvAbuse](https://le-wi-di.github.io/) | :family_man_woman_girl_boy: | 3-8 | 4185 | 0.69 | Alpha |
 | 2021 | [Agreeing to Disagree: Annotating Offensive Language Datasets with Annotators’ Disagreement](https://aclanthology.org/2021.emnlp-main.822/) (Elisa Leonardelli, Stefano Menini, Alessio Palmero Aprosio, Marco Guerini, Sara Tonelli) | Hate speech identification | [MD-Agreement](https://le-wi-di.github.io/) | :family_man_woman_girl_boy: | 5 | 10K | 71.172 | Percent agreement<sup>[4](#selfcalculated)</sup> |
-| 2021 | [Designing Toxic Content Classification for a Diversity of Perspectives](https://arxiv.org/abs/2106.04511) (Deepak Kumar, Patrick Gage Kelley, Sunny Consolvo, Joshua Mason, Elie Bursztein, Zakir Durumeric, Kurt Thomas, Michael Bailey) |  Hate speech identification | [Dataset](https://data.esrg.stanford.edu/study/toxicity-perspectives): $\square$ | :family_man_woman_girl_boy: | 5 | 107,620 | 65.2-90% | Percent agreement<sup>[2](#complicatedirr)</sup> |
+| 2021 | [Designing Toxic Content Classification for a Diversity of Perspectives](https://arxiv.org/abs/2106.04511) (Deepak Kumar, Patrick Gage Kelley, Sunny Consolvo, Joshua Mason, Elie Bursztein, Zakir Durumeric, Kurt Thomas, Michael Bailey) (jury learning) |  Hate speech identification | [Dataset](https://data.esrg.stanford.edu/study/toxicity-perspectives): $\square$ | :family_man_woman_girl_boy: | 5 | 107,620 | 65.2-90% | Percent agreement<sup>[2](#complicatedirr)</sup> |
 | 2021 | [Did they answer? Subjective acts and intents in conversational discourse](https://aclanthology.org/2021.naacl-main.129/) (Elisa Ferracane, Greg Durrett, Junyi Jessy Li, Katrin Erk) | Sentiment Analysis+Intent Classification | [Dataset](https://github.com/elisaF/subjective_discourse/blob/master/data/gold/) | :family_man_woman_girl_boy: | 3-7 | 1K | Overall (0.494), conversation act (0.652), intent (0.376) | Alpha |
 | 2020 | [On Faithfulness and Factuality in Abstractive Summarization](https://aclanthology.org/2020.acl-main.173) (Joshua Maynez, Shashi Narayan, Bernd Bohnet, Ryan McDonald) | Hallucination classification | [Dataset](https://github.com/google-research-datasets/xsum_hallucination_annotations) | :family_man_woman_girl_boy: | 3 |  | 0.61-0.80 | Fleiss' Kappa<sup>[2](#complicatedirr)</sup> |
 | 2020 | [On Faithfulness and Factuality in Abstractive Summarization](https://aclanthology.org/2020.acl-main.173) (Joshua Maynez, Shashi Narayan, Bernd Bohnet, Ryan McDonald) | Factuality classification | [Dataset](https://github.com/google-research-datasets/xsum_hallucination_annotations) | :family_man_woman_girl_boy: | 3 |  | 0.81-1.00 | Fleiss' Kappa<sup>[2](#complicatedirr)</sup> |
@@ -23,7 +23,8 @@
 
 
 
-
+* The order of datasets within each year is random
+  
 <a name="datasymbols">1</a>:
 If there is no :family_man_woman_girl_boy: emoji, this dataset contains aggregate level annotations. If there is, it contains annotator-level data as well.<br/>
 $\times$ = no data released,<br/>
