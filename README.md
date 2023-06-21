@@ -42,4 +42,8 @@ $\square$ = data can be obtained by reaching out to authors
 Papers talking about calculation methods (todo: organize this table)
 - J. Richard Landis and Gary G. Koch. 1977. The measurement of observer agreement for categorical data.
 Biometrics, 33(1):159–174.
+
+Not label annotations but contains input from individual annotators (todo: organize into table)
+- https://aclanthology.org/Q14-1006.pdf
+
 - 
