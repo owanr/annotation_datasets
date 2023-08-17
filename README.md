@@ -18,6 +18,16 @@
 | 2015 | [A large annotated corpus for learning natural language inference](https://nlp.stanford.edu/projects/snli/) (Samuel R. Bowman, Gabor Angeli, Christopher Potts, and Christopher D. Manning) | NLI | [Dataset](https://nlp.stanford.edu/projects/snli/) | :family_man_woman_girl_boy: |  |  |  |  |
 | 2014 | [Lexical Acquisition for Opinion Inference: A Sense-Level Lexicon of Benefactive and Malefactive Events](https://aclanthology.org/W14-2618.pdf) (Yoonjung Choi, Lingjia Deng, and Janyce Wiebe) | WSD for sentiment analysis | [Dataset](http://mpqa.cs.pitt.edu/corpora/gfbf/) | $\triangle$ |  |  | 0.84 | Percent agreement|
 |"|"|"|"|"|"|"|0.75 | Kappa|
+| 2018 | [DART: A Large Dataset of Dialectal Arabic Tweets](https://aclanthology.org/L18-1579.pdf) (Israa Alsarsour, Esraa Mohamed, Reem Suwaileh, Tamer Elsayed) |  | |  |  |  |  |  |
+| 2013 | [Evaluation datasets for Twitter sentiment analysis: a survey and a new dataset, the STS-Gold](https://oro.open.ac.uk/40660/) (Saif, Hassan; Fernández, Miriam; He, Yulan and Alani, Harith ) |  | |  |  |  |  |  |
+| 2022 | [ArMIS - The Arabic Misogyny and Sexism Corpus with Annotator Subjective Disagreements](https://aclanthology.org/2022.lrec-1.244/) (Saif, Hassan; Fernández, Miriam; He, Yulan and Alani, Harith ) |  | |  |  |  |  |  |
+| 2013 | [SemEval-2023 Task 11: Learning With Disagreements (LeWiDi)](https://arxiv.org/abs/2304.14803) (Elisa Leonardelli, Alexandra Uma, Gavin Abercrombie, Dina Almanea, Valerio Basile, Tommaso Fornaciari, Barbara Plank, Verena Rieser, Massimo Poesio ) |  | |:family_man_woman_girl_boy:  |  |  |  |  |
+| 2023 | [xiacui at SemEval-2023 Task 11: Learning a Model in Mixed-Annotator Datasets Using Annotator Ranking Scores as Training Weights](https://aclanthology.org/2023.semeval-1.148/) (Elisa Leonardelli, Alexandra Uma, Gavin Abercrombie, Dina Almanea, Valerio Basile, Tommaso Fornaciari, Barbara Plank, Verena Rieser, Massimo Poesio ) |  | |:family_man_woman_girl_boy:  |  |  |  |  |
+| 2023 | [A Dataset for Physical and Abstract Plausibility and Sources of Human Disagreement](https://aclanthology.org/2023.law-1.4.pdf) (Annerose Eichel, Sabine Schulte im Walde ) |  | |:family_man_woman_girl_boy:  |  |  |  |  |
+| 2023 | [Assessing Inter-Annotator Agreement for Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10054393) (Feng Yang; Ghada Zamzmi; Sandeep Angara; Sivaramakrishnan Rajaraman; André Aquilina; Zhiyun Xue; Stefan Jaege et al ) |  | |:family_man_woman_girl_boy:  |  |  |  |  |
+| 2023 | [Agreeing to Disagree: Annotating Offensive Language Datasets with Annotators' Disagreement](https://arxiv.org/abs/2109.13563) (Elisa Leonardelli, Stefano Menini, Alessio Palmero Aprosio, Marco Guerini, Sara Tonelli ) |  | |:family_man_woman_girl_boy:  |  |  |  |  |
+| 2022 | [Toxicity detection sensitive to conversational context](https://firstmonday.org/ojs/index.php/fm/article/view/12285) (Alexandros Zenos, John Pavlopolous, Ian Androutsopoulos, Lucas Dixon, Jeffrey Sorensen, Leo Laugier) |  | |:family_man_woman_girl_boy:  |  |  |  |  |
+| 2022 | [RuSentiTweet: a sentiment analysis dataset of general domain tweets in Russian](https://peerj.com/articles/cs-1039/) (Sergey Smetanin) |  | |:family_man_woman_girl_boy:  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 
 
